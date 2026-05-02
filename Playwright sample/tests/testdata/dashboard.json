@@ -1,0 +1,16 @@
+[
+  {
+    "username": "admin",
+    "password": "n@n0@313",
+    "searchText": "user session",
+    "moduleName": "Administration / Admin Forms /",
+    "canAccess": true
+  },
+  {
+    "username": "ibrahim",
+    "password": "123456",
+    "searchText": "user session",
+    "moduleName": "Administration / Admin Forms /",
+    "canAccess": false
+  }
+]

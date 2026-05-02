@@ -1,0 +1,12 @@
+{
+  "form": {
+    "searchQuery": "city",
+    "navText": "Master Data Set-Up / Facilities / Properties / City"
+  },
+  "fields": [
+    { "id": "#fld3_43_Input", "placeholder": "Enter City Code", "value": "CBE" },
+    { "id": "#fld3_44_Input", "placeholder": "Enter City Name", "value": "Coimbatore" },
+    { "id": "#fld3_50_Input", "placeholder": "Select Region Name", "value": "south india" },
+    { "id": "#fld3_51_Input", "placeholder": "Select Country Name", "value": "India" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "username": "Admin",
+      "password": "n@n0@313",
+      "role" : "admin",
+      "canAccess": true
+    }
+  ],
+  "expectedMessages": {
+    "validLogin": "https://verstdz.smartfm.cloud/#/Home"
+  }
+}

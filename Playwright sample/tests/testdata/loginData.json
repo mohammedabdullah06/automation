@@ -1,0 +1,30 @@
+{
+  
+  "users": {
+    "validUser": {
+      "username": "admin",
+      "password": "n@N0@313"
+    },
+    "invalidUser": {
+      "username": "admin",
+      "password": "1234567"
+    },
+    "emptyPassword": {
+      "username": "admin",
+      "password": ""
+    },
+    "emptyUsername": {
+      "username": "",
+      "password": "n@N0@313"
+    }
+  },
+  "expectedMessages": {
+    "invalidLogin": "Invalid username or password",
+    "emptyPassword": "Password Should Not Be Empty",
+    "emptyUsername": "Username Should Not Be Empty"
+  },
+  "navigation": {
+    "home": "/#/Home",
+    "logout": "/#/login"
+  }
+}

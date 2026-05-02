@@ -1,0 +1,22 @@
+{
+  "name": "smartfm-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx playwright test tests/specs/country.spec.js --reporter=html",
+    "prod":"NODE_ENV=prod npx playwright test --reporter=html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.6.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "xlsx": "^0.18.5"
+  }
+}

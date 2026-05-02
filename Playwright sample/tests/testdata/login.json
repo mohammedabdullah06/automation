@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "n@N0@313",
+      "role": "admin",
+      "canAccess": true
+    },
+    {
+      "username": "ibrahim",
+      "password": "123456",
+      "role": "viewer",
+      "canAccess": false
+    }
+   
+  ]
+}

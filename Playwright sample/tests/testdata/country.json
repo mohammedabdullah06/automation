@@ -1,0 +1,28 @@
+{
+  "form": {
+    "searchQuery": "country",
+    "navText": "Master Data Set-Up / Facilities / Properties / Country"
+  },
+  "fields": [
+    { "id": "#fld4_59_Input", "placeholder": "Enter Country Code", "value": "US" },
+    { "id": "#fld4_60_Input", "placeholder": "Enter Country Name", "value": "United States" },
+    { "id": "#fld4_61L2TextField", "placeholder": "Enter Currency Code", "value": "USD" },
+    { "id": "#fld4_62L2TextField", "placeholder": "Enter Currency Name", "value": "US Dollar" }
+  ],
+  "filtersID": "#AdminCountryRegistryFilterDiv",
+  "filtersDiv": "#AdminCountryRegistryfildiv",
+  "filterScroll":"#fld4L1TFCScrollYDefault div",
+  "filters": [
+    {
+      "name": "Country Code",
+      "placeholder": "Enter Country Code",
+      "value": "66"
+    }
+     
+
+
+  ],
+  "actions": [
+    { "name": "Refresh", "id": "#fld4L1TCExportRefresh" }
+  ]
+}
